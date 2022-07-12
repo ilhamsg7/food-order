@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+
+/* CSS for All */
+
+* {
+    margin: 0 0;
+    padding: 0 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.part {
+    background-color: #DA0037;
+}
+
+.navbar-nav .amount .nav-link {
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-nav .amount .nav-link:hover {
+    color: thistle;
+}
